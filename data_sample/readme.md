@@ -1,20 +1,9 @@
 
-*(File names and structure may vary; see code for exact loading logic.)*
+This subset follows the same structure and format as the full dataset and is sufficient to run the provided scripts and notebooks.
 
-## Data Size
-Due to the large number of files and total size, the complete dataset is **not hosted directly on GitHub**.
+## Reproducibility
+All preprocessing, training, and evaluation steps are fully documented and implemented in this repository. Experiments can be reproduced using the sample dataset, and fully replicated using the complete dataset available via Zenodo.
 
-## Access to Full Dataset
-The full dataset is archived on **Zenodo** and can be accessed via the following DOI:
-
-> **DOI:** _to be added upon publication_
-
-The Zenodo archive includes:
-- The complete dataset
-- A checksum file for data integrity verification
-- A README describing the archive structure
-
-## Sample Dataset
-To allow immediate testing and reproducibility, a **small representative subset** of the dataset is provided in this repository under:
-
+## License
+Please refer to the Zenodo record for dataset licensing and usage conditions.
 
