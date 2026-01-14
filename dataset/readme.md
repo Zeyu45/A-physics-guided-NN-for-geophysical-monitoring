@@ -1,3 +1,20 @@
+# Dataset Description and Access
+
+## Overview
+This project uses a dataset consisting of 3,200 NumPy (`.npy`) files, generated and used for the experiments presented in the accompanying conference paper.
+
+Each data sample corresponds to a single simulation/observation and is stored as a standalone `.npy` file. The dataset is organized consistently with the preprocessing and training pipelines provided in this repository.
+
+## Dataset Structure
+The full dataset contains:
+- 800 samples
+- 4 `.npy` files per sample
+- Total files: 3,200
+
+Example structure:
+
+
+
 ## Data Size
 Due to the large number of files and total size, the complete dataset is **not hosted directly on GitHub**.
 
