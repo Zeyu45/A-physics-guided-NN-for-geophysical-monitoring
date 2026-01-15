@@ -35,4 +35,4 @@ For details on the final dataset layout and access instructions, please refer to
 ---
 
 ## Notes
-- Running the full data generation pipeline require significant computational resources, provided by .
+- Running the full data generation pipeline require significant computation helpers, supported by Kenette.py and seistools.py.
