@@ -37,3 +37,5 @@ The full dataset is archived on **Zenodo** and can be accessed via the following
 > https://doi.org/10.5281/zenodo.18258167
 
 
+## License
+Please refer to the Zenodo record for dataset licensing and usage conditions.
