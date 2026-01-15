@@ -28,6 +28,21 @@ The Zenodo archive includes:
 - A checksum file for data integrity verification
 - A README describing the archive structure
 
+## Download script:
+#!/bin/bash
+
+echo "Downloading dataset from Zenodo..."
+
+ZENODO_DOI="10.5281/zenodo.XXXXXXX"
+ZENODO_URL="https://zenodo.org/record/XXXXXXX/files/dataset.zip"
+
+wget $ZENODO_URL -O dataset.zip
+
+echo "Extracting dataset..."
+unzip dataset.zip
+
+echo "Done. Dataset available in ./dataset/"
+
 ## Sample Dataset
 To allow immediate testing and reproducibility, a **small representative subset** of the dataset is provided in this repository under:
 
