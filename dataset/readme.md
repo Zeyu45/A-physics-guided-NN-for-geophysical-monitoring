@@ -7,7 +7,6 @@ The dataset supports all preprocessing, training, and evaluation workflows provi
 Each data sample corresponds to a single simulation/observation and is stored as a standalone `.npy` file. The dataset is organized consistently with the preprocessing and training pipelines provided in this repository.
 
 ## Dataset Structure
-
 dataset/
 ├── saturation_maps/
 │ ├── frames_true/
