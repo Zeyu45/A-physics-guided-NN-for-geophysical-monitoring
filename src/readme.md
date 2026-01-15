@@ -18,3 +18,5 @@
 - **`resnet.py`**  
   Provides ResNet-style building blocks (residual blocks) used by the network architectures.
 
+- **`physics.py`**  
+  Implements the complete physics-guided forward modeling workflow used in the study.
